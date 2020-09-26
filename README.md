@@ -1,7 +1,7 @@
 # My #100DaysOfCode Journey
 
-**Stuti Mittra**  
-*Cloud Developer, Celebal Technologies* 
+**Channdrika Deb**  
+*Software Developer, Amdocs* 
 
 ## Timeline
 
